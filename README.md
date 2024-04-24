@@ -1,7 +1,7 @@
 # Java Begineer to Advance Programs/Classes
 
 Hello and Welcome to Java for beginners to advance
-We will cover from basic level to advnace levels of java topics
+We will cover from basic level to advanced levels of Java topics
 
 
 1. J2SE
